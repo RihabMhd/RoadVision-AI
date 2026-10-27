@@ -1,0 +1,22 @@
+class_id,class_name,raw_bounding_boxes
+0,ambulance,70
+1,army vehicle,43
+2,auto rickshaw,372
+3,bicycle,459
+4,bus,3339
+5,car,5474
+6,garbagevan,3
+7,human hauler,169
+8,minibus,95
+9,minivan,932
+10,motorbike,2284
+11,pickup,1225
+12,policecar,32
+13,rickshaw,3539
+14,scooter,38
+15,suv,858
+16,taxi,60
+17,three wheelers -CNG-,2986
+18,truck,1495
+19,van,755
+20,wheelbarrow,120

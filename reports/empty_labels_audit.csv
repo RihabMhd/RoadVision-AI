@@ -1,0 +1,5 @@
+split,label_file,category,original_box_count,valid_box_count,treatment
+train,01_jpg.rf.8d8a2f0f90d5b83893cd252acd832c93.txt,legitimate_background,0,0,retained_as_empty_background_label
+train,231_jpg.rf.42292592b7fed42abf94d9624eda3fa5.txt,legitimate_background,0,0,retained_as_empty_background_label
+valid,Pias--359-_PNG.rf.43bcf36efe5cf8c37552d2c45fffea60.txt,invalidated_annotations,14,0,retained_as_background_zero_annotation_file
+valid,Pias--360-_PNG.rf.8405b0e44009a9300e0a1100ccf7d5b3.txt,invalidated_annotations,10,0,retained_as_background_zero_annotation_file

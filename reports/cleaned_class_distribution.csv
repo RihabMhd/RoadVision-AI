@@ -1,4 +1,4 @@
-class_id,class_name,valid_boxes_in_cleaned_labels
+class_id,class_name,valid_boxes_cleaned
 0,ambulance,70
 1,army vehicle,43
 2,auto rickshaw,372
