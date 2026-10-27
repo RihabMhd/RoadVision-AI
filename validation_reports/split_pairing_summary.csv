@@ -1,0 +1,4 @@
+split,split_folder_exists,images_folder_exists,labels_folder_exists,images,label_files,images_without_label,labels_without_image
+train,True,True,True,2704,2704,0,0
+valid,True,True,True,300,300,0,0
+test,False,False,False,0,0,0,0
